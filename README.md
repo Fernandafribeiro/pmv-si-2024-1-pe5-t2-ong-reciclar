@@ -1,8 +1,8 @@
-# Título do Projeto
+# Projeto ONG Reciclar
 
 `CURSO: Sistemas de Informação`
 
-`DISCIPLINA: Projeto - Projeto de Infraestrutura`
+`DISCIPLINA: Projeto - Projeto Infraestrutura de Redes`
 
 `Eixo: 5`
 
